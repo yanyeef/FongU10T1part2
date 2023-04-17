@@ -5,7 +5,6 @@ public class Summing
         System.out.println(sum(6));  // should print 21
         System.out.println(sum(10)); // should print 55
     }
-
     public static int sum(int n)
     {
         // Write a RECURSIVE implementation of this method!
