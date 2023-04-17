@@ -4,7 +4,6 @@ public class ExplorationU10T1Problem3
     {
         recursiveMethod(4);
     }
-
     public static void recursiveMethod(int n)
     {
         System.out.println("Called, n = " + n);
